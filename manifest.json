@@ -1,5 +1,5 @@
 {
-    "latest": "1.0.4",
+    "latest": "1.0.5",
     "min_supported": "1.0.0",
     "notes": "See Release Notes for Changes",
     "files": {
@@ -9,5 +9,6 @@
         }
     }
 }
+
 
 
