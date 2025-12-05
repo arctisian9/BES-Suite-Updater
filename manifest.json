@@ -1,14 +1,15 @@
 {
-    "latest": "1.0.6",
+    "latest": "1.0.7",
     "min_supported": "1.0.0",
     "notes": "See Release Notes for Changes",
     "files": {
         "windows-amd64": {
-            "url": "https://github.com/arctisian9/BES-Suite-Updater/releases/download/v1.0.6/BES_Suite.zip",
-            "sha256": "6b57f73e659db3db8a1abe758771b7a5ac4c06bd90ea3dc64055d966b6e3489b"
+            "url": "https://github.com/arctisian9/BES-Suite-Updater/releases/download/v1.0.7/BES_Suite.zip",
+            "sha256": "c7057f4d35b6fe1bb9c13be302006afe37b4ad6d1d3eb9975418148b94b71362"
         }
     }
 }
+
 
 
 
